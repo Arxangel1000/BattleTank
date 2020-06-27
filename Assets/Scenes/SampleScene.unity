@@ -974,7 +974,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 882d944c21c491c43945910df56cb4bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 50
 --- !u!1 &1933640966
 GameObject:
   m_ObjectHideFlags: 0
@@ -2615,7 +2614,7 @@ GameObject:
   - component: {fileID: 4139265963993602433}
   - component: {fileID: 4139265963993564578}
   m_Layer: 0
-  m_Name: BurrelEnd
+  m_Name: BurrelEndMachineGun1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2704,9 +2703,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4139265963993602441}
   - component: {fileID: 4139265963984090729}
-  - component: {fileID: 1692762715}
   - component: {fileID: 4139265963993564586}
+  - component: {fileID: 1692762715}
   - component: {fileID: 4139265963993564588}
+  - component: {fileID: 4139265963993564590}
   m_Layer: 0
   m_Name: 38T
   m_TagString: Untagged
@@ -2775,6 +2775,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &4139265963993564590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4139265963993564585}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05bb974a4e329e4ab11cfd08cb7c37c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tankShooting:
+  - {fileID: 1091349019}
+  - {fileID: 4139265963993564578}
+  - {fileID: 4139265963993564624}
 --- !u!1 &4139265963993564591
 GameObject:
   m_ObjectHideFlags: 0
@@ -3140,7 +3156,7 @@ GameObject:
   - component: {fileID: 4139265963993602473}
   - component: {fileID: 1091349019}
   m_Layer: 0
-  m_Name: BarrelEnd
+  m_Name: BarrelEndCanon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3193,7 +3209,7 @@ GameObject:
   - component: {fileID: 4139265963993602479}
   - component: {fileID: 4139265963993564624}
   m_Layer: 0
-  m_Name: BurrelEnd
+  m_Name: BurrelEndMachineGun2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
