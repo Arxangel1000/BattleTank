@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 7a0076e67b93e79428b95267305ec749
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: front_radiator_low1.003Shape_MASH1_Instancer_0
+    100002: front_radiator_low1.003Shape_MASH1_Instancer_1
+    100004: front_radiator_low1.003Shape_MASH1_Instancer_10
+    100006: front_radiator_low1.003Shape_MASH1_Instancer_11
+    100008: front_radiator_low1.003Shape_MASH1_Instancer_12
+    100010: front_radiator_low1.003Shape_MASH1_Instancer_13
+    100012: front_radiator_low1.003Shape_MASH1_Instancer_14
+    100014: front_radiator_low1.003Shape_MASH1_Instancer_15
+    100016: front_radiator_low1.003Shape_MASH1_Instancer_16
+    100018: front_radiator_low1.003Shape_MASH1_Instancer_17
+    100020: front_radiator_low1.003Shape_MASH1_Instancer_18
+    100022: front_radiator_low1.003Shape_MASH1_Instancer_19
+    100024: front_radiator_low1.003Shape_MASH1_Instancer_2
+    100026: front_radiator_low1.003Shape_MASH1_Instancer_20
+    100028: front_radiator_low1.003Shape_MASH1_Instancer_21
+    100030: front_radiator_low1.003Shape_MASH1_Instancer_22
+    100032: front_radiator_low1.003Shape_MASH1_Instancer_23
+    100034: front_radiator_low1.003Shape_MASH1_Instancer_24
+    100036: front_radiator_low1.003Shape_MASH1_Instancer_25
+    100038: front_radiator_low1.003Shape_MASH1_Instancer_26
+    100040: front_radiator_low1.003Shape_MASH1_Instancer_27
+    100042: front_radiator_low1.003Shape_MASH1_Instancer_28
+    100044: front_radiator_low1.003Shape_MASH1_Instancer_29
+    100046: front_radiator_low1.003Shape_MASH1_Instancer_3
+    100048: front_radiator_low1.003Shape_MASH1_Instancer_30
+    100050: front_radiator_low1.003Shape_MASH1_Instancer_31
+    100052: front_radiator_low1.003Shape_MASH1_Instancer_32
+    100054: front_radiator_low1.003Shape_MASH1_Instancer_33
+    100056: front_radiator_low1.003Shape_MASH1_Instancer_34
+    100058: front_radiator_low1.003Shape_MASH1_Instancer_35
+    100060: front_radiator_low1.003Shape_MASH1_Instancer_36
+    100062: front_radiator_low1.003Shape_MASH1_Instancer_37
+    100064: front_radiator_low1.003Shape_MASH1_Instancer_38
+    100066: front_radiator_low1.003Shape_MASH1_Instancer_39
+    100068: front_radiator_low1.003Shape_MASH1_Instancer_4
+    100070: front_radiator_low1.003Shape_MASH1_Instancer_40
+    100072: front_radiator_low1.003Shape_MASH1_Instancer_41
+    100074: front_radiator_low1.003Shape_MASH1_Instancer_42
+    100076: front_radiator_low1.003Shape_MASH1_Instancer_43
+    100078: front_radiator_low1.003Shape_MASH1_Instancer_44
+    100080: front_radiator_low1.003Shape_MASH1_Instancer_45
+    100082: front_radiator_low1.003Shape_MASH1_Instancer_46
+    100084: front_radiator_low1.003Shape_MASH1_Instancer_5
+    100086: front_radiator_low1.003Shape_MASH1_Instancer_6
+    100088: front_radiator_low1.003Shape_MASH1_Instancer_7
+    100090: front_radiator_low1.003Shape_MASH1_Instancer_8
+    100092: front_radiator_low1.003Shape_MASH1_Instancer_9
+    100094: //RootNode
+    400000: front_radiator_low1.003Shape_MASH1_Instancer_0
+    400002: front_radiator_low1.003Shape_MASH1_Instancer_1
+    400004: front_radiator_low1.003Shape_MASH1_Instancer_10
+    400006: front_radiator_low1.003Shape_MASH1_Instancer_11
+    400008: front_radiator_low1.003Shape_MASH1_Instancer_12
+    400010: front_radiator_low1.003Shape_MASH1_Instancer_13
+    400012: front_radiator_low1.003Shape_MASH1_Instancer_14
+    400014: front_radiator_low1.003Shape_MASH1_Instancer_15
+    400016: front_radiator_low1.003Shape_MASH1_Instancer_16
+    400018: front_radiator_low1.003Shape_MASH1_Instancer_17
+    400020: front_radiator_low1.003Shape_MASH1_Instancer_18
+    400022: front_radiator_low1.003Shape_MASH1_Instancer_19
+    400024: front_radiator_low1.003Shape_MASH1_Instancer_2
+    400026: front_radiator_low1.003Shape_MASH1_Instancer_20
+    400028: front_radiator_low1.003Shape_MASH1_Instancer_21
+    400030: front_radiator_low1.003Shape_MASH1_Instancer_22
+    400032: front_radiator_low1.003Shape_MASH1_Instancer_23
+    400034: front_radiator_low1.003Shape_MASH1_Instancer_24
+    400036: front_radiator_low1.003Shape_MASH1_Instancer_25
+    400038: front_radiator_low1.003Shape_MASH1_Instancer_26
+    400040: front_radiator_low1.003Shape_MASH1_Instancer_27
+    400042: front_radiator_low1.003Shape_MASH1_Instancer_28
+    400044: front_radiator_low1.003Shape_MASH1_Instancer_29
+    400046: front_radiator_low1.003Shape_MASH1_Instancer_3
+    400048: front_radiator_low1.003Shape_MASH1_Instancer_30
+    400050: front_radiator_low1.003Shape_MASH1_Instancer_31
+    400052: front_radiator_low1.003Shape_MASH1_Instancer_32
+    400054: front_radiator_low1.003Shape_MASH1_Instancer_33
+    400056: front_radiator_low1.003Shape_MASH1_Instancer_34
+    400058: front_radiator_low1.003Shape_MASH1_Instancer_35
+    400060: front_radiator_low1.003Shape_MASH1_Instancer_36
+    400062: front_radiator_low1.003Shape_MASH1_Instancer_37
+    400064: front_radiator_low1.003Shape_MASH1_Instancer_38
+    400066: front_radiator_low1.003Shape_MASH1_Instancer_39
+    400068: front_radiator_low1.003Shape_MASH1_Instancer_4
+    400070: front_radiator_low1.003Shape_MASH1_Instancer_40
+    400072: front_radiator_low1.003Shape_MASH1_Instancer_41
+    400074: front_radiator_low1.003Shape_MASH1_Instancer_42
+    400076: front_radiator_low1.003Shape_MASH1_Instancer_43
+    400078: front_radiator_low1.003Shape_MASH1_Instancer_44
+    400080: front_radiator_low1.003Shape_MASH1_Instancer_45
+    400082: front_radiator_low1.003Shape_MASH1_Instancer_46
+    400084: front_radiator_low1.003Shape_MASH1_Instancer_5
+    400086: front_radiator_low1.003Shape_MASH1_Instancer_6
+    400088: front_radiator_low1.003Shape_MASH1_Instancer_7
+    400090: front_radiator_low1.003Shape_MASH1_Instancer_8
+    400092: front_radiator_low1.003Shape_MASH1_Instancer_9
+    400094: //RootNode
+    2100000: body_and_truck.001
+    2300000: front_radiator_low1.003Shape_MASH1_Instancer_0
+    2300002: front_radiator_low1.003Shape_MASH1_Instancer_1
+    2300004: front_radiator_low1.003Shape_MASH1_Instancer_10
+    2300006: front_radiator_low1.003Shape_MASH1_Instancer_11
+    2300008: front_radiator_low1.003Shape_MASH1_Instancer_12
+    2300010: front_radiator_low1.003Shape_MASH1_Instancer_13
+    2300012: front_radiator_low1.003Shape_MASH1_Instancer_14
+    2300014: front_radiator_low1.003Shape_MASH1_Instancer_15
+    2300016: front_radiator_low1.003Shape_MASH1_Instancer_16
+    2300018: front_radiator_low1.003Shape_MASH1_Instancer_17
+    2300020: front_radiator_low1.003Shape_MASH1_Instancer_18
+    2300022: front_radiator_low1.003Shape_MASH1_Instancer_19
+    2300024: front_radiator_low1.003Shape_MASH1_Instancer_2
+    2300026: front_radiator_low1.003Shape_MASH1_Instancer_20
+    2300028: front_radiator_low1.003Shape_MASH1_Instancer_21
+    2300030: front_radiator_low1.003Shape_MASH1_Instancer_22
+    2300032: front_radiator_low1.003Shape_MASH1_Instancer_23
+    2300034: front_radiator_low1.003Shape_MASH1_Instancer_24
+    2300036: front_radiator_low1.003Shape_MASH1_Instancer_25
+    2300038: front_radiator_low1.003Shape_MASH1_Instancer_26
+    2300040: front_radiator_low1.003Shape_MASH1_Instancer_27
+    2300042: front_radiator_low1.003Shape_MASH1_Instancer_28
+    2300044: front_radiator_low1.003Shape_MASH1_Instancer_29
+    2300046: front_radiator_low1.003Shape_MASH1_Instancer_3
+    2300048: front_radiator_low1.003Shape_MASH1_Instancer_30
+    2300050: front_radiator_low1.003Shape_MASH1_Instancer_31
+    2300052: front_radiator_low1.003Shape_MASH1_Instancer_32
+    2300054: front_radiator_low1.003Shape_MASH1_Instancer_33
+    2300056: front_radiator_low1.003Shape_MASH1_Instancer_34
+    2300058: front_radiator_low1.003Shape_MASH1_Instancer_35
+    2300060: front_radiator_low1.003Shape_MASH1_Instancer_36
+    2300062: front_radiator_low1.003Shape_MASH1_Instancer_37
+    2300064: front_radiator_low1.003Shape_MASH1_Instancer_38
+    2300066: front_radiator_low1.003Shape_MASH1_Instancer_39
+    2300068: front_radiator_low1.003Shape_MASH1_Instancer_4
+    2300070: front_radiator_low1.003Shape_MASH1_Instancer_40
+    2300072: front_radiator_low1.003Shape_MASH1_Instancer_41
+    2300074: front_radiator_low1.003Shape_MASH1_Instancer_42
+    2300076: front_radiator_low1.003Shape_MASH1_Instancer_43
+    2300078: front_radiator_low1.003Shape_MASH1_Instancer_44
+    2300080: front_radiator_low1.003Shape_MASH1_Instancer_45
+    2300082: front_radiator_low1.003Shape_MASH1_Instancer_46
+    2300084: front_radiator_low1.003Shape_MASH1_Instancer_5
+    2300086: front_radiator_low1.003Shape_MASH1_Instancer_6
+    2300088: front_radiator_low1.003Shape_MASH1_Instancer_7
+    2300090: front_radiator_low1.003Shape_MASH1_Instancer_8
+    2300092: front_radiator_low1.003Shape_MASH1_Instancer_9
+    3300000: front_radiator_low1.003Shape_MASH1_Instancer_0
+    3300002: front_radiator_low1.003Shape_MASH1_Instancer_1
+    3300004: front_radiator_low1.003Shape_MASH1_Instancer_10
+    3300006: front_radiator_low1.003Shape_MASH1_Instancer_11
+    3300008: front_radiator_low1.003Shape_MASH1_Instancer_12
+    3300010: front_radiator_low1.003Shape_MASH1_Instancer_13
+    3300012: front_radiator_low1.003Shape_MASH1_Instancer_14
+    3300014: front_radiator_low1.003Shape_MASH1_Instancer_15
+    3300016: front_radiator_low1.003Shape_MASH1_Instancer_16
+    3300018: front_radiator_low1.003Shape_MASH1_Instancer_17
+    3300020: front_radiator_low1.003Shape_MASH1_Instancer_18
+    3300022: front_radiator_low1.003Shape_MASH1_Instancer_19
+    3300024: front_radiator_low1.003Shape_MASH1_Instancer_2
+    3300026: front_radiator_low1.003Shape_MASH1_Instancer_20
+    3300028: front_radiator_low1.003Shape_MASH1_Instancer_21
+    3300030: front_radiator_low1.003Shape_MASH1_Instancer_22
+    3300032: front_radiator_low1.003Shape_MASH1_Instancer_23
+    3300034: front_radiator_low1.003Shape_MASH1_Instancer_24
+    3300036: front_radiator_low1.003Shape_MASH1_Instancer_25
+    3300038: front_radiator_low1.003Shape_MASH1_Instancer_26
+    3300040: front_radiator_low1.003Shape_MASH1_Instancer_27
+    3300042: front_radiator_low1.003Shape_MASH1_Instancer_28
+    3300044: front_radiator_low1.003Shape_MASH1_Instancer_29
+    3300046: front_radiator_low1.003Shape_MASH1_Instancer_3
+    3300048: front_radiator_low1.003Shape_MASH1_Instancer_30
+    3300050: front_radiator_low1.003Shape_MASH1_Instancer_31
+    3300052: front_radiator_low1.003Shape_MASH1_Instancer_32
+    3300054: front_radiator_low1.003Shape_MASH1_Instancer_33
+    3300056: front_radiator_low1.003Shape_MASH1_Instancer_34
+    3300058: front_radiator_low1.003Shape_MASH1_Instancer_35
+    3300060: front_radiator_low1.003Shape_MASH1_Instancer_36
+    3300062: front_radiator_low1.003Shape_MASH1_Instancer_37
+    3300064: front_radiator_low1.003Shape_MASH1_Instancer_38
+    3300066: front_radiator_low1.003Shape_MASH1_Instancer_39
+    3300068: front_radiator_low1.003Shape_MASH1_Instancer_4
+    3300070: front_radiator_low1.003Shape_MASH1_Instancer_40
+    3300072: front_radiator_low1.003Shape_MASH1_Instancer_41
+    3300074: front_radiator_low1.003Shape_MASH1_Instancer_42
+    3300076: front_radiator_low1.003Shape_MASH1_Instancer_43
+    3300078: front_radiator_low1.003Shape_MASH1_Instancer_44
+    3300080: front_radiator_low1.003Shape_MASH1_Instancer_45
+    3300082: front_radiator_low1.003Shape_MASH1_Instancer_46
+    3300084: front_radiator_low1.003Shape_MASH1_Instancer_5
+    3300086: front_radiator_low1.003Shape_MASH1_Instancer_6
+    3300088: front_radiator_low1.003Shape_MASH1_Instancer_7
+    3300090: front_radiator_low1.003Shape_MASH1_Instancer_8
+    3300092: front_radiator_low1.003Shape_MASH1_Instancer_9
+    4300000: front_radiator_low1.003Shape_MASH1_Instancer_0
+    4300002: front_radiator_low1.003Shape_MASH1_Instancer_1
+    4300004: front_radiator_low1.003Shape_MASH1_Instancer_2
+    4300006: front_radiator_low1.003Shape_MASH1_Instancer_3
+    4300008: front_radiator_low1.003Shape_MASH1_Instancer_4
+    4300010: front_radiator_low1.003Shape_MASH1_Instancer_5
+    4300012: front_radiator_low1.003Shape_MASH1_Instancer_6
+    4300014: front_radiator_low1.003Shape_MASH1_Instancer_7
+    4300016: front_radiator_low1.003Shape_MASH1_Instancer_8
+    4300018: front_radiator_low1.003Shape_MASH1_Instancer_9
+    4300020: front_radiator_low1.003Shape_MASH1_Instancer_10
+    4300022: front_radiator_low1.003Shape_MASH1_Instancer_11
+    4300024: front_radiator_low1.003Shape_MASH1_Instancer_12
+    4300026: front_radiator_low1.003Shape_MASH1_Instancer_13
+    4300028: front_radiator_low1.003Shape_MASH1_Instancer_14
+    4300030: front_radiator_low1.003Shape_MASH1_Instancer_15
+    4300032: front_radiator_low1.003Shape_MASH1_Instancer_16
+    4300034: front_radiator_low1.003Shape_MASH1_Instancer_17
+    4300036: front_radiator_low1.003Shape_MASH1_Instancer_18
+    4300038: front_radiator_low1.003Shape_MASH1_Instancer_19
+    4300040: front_radiator_low1.003Shape_MASH1_Instancer_20
+    4300042: front_radiator_low1.003Shape_MASH1_Instancer_21
+    4300044: front_radiator_low1.003Shape_MASH1_Instancer_22
+    4300046: front_radiator_low1.003Shape_MASH1_Instancer_23
+    4300048: front_radiator_low1.003Shape_MASH1_Instancer_24
+    4300050: front_radiator_low1.003Shape_MASH1_Instancer_25
+    4300052: front_radiator_low1.003Shape_MASH1_Instancer_26
+    4300054: front_radiator_low1.003Shape_MASH1_Instancer_27
+    4300056: front_radiator_low1.003Shape_MASH1_Instancer_28
+    4300058: front_radiator_low1.003Shape_MASH1_Instancer_29
+    4300060: front_radiator_low1.003Shape_MASH1_Instancer_30
+    4300062: front_radiator_low1.003Shape_MASH1_Instancer_31
+    4300064: front_radiator_low1.003Shape_MASH1_Instancer_32
+    4300066: front_radiator_low1.003Shape_MASH1_Instancer_33
+    4300068: front_radiator_low1.003Shape_MASH1_Instancer_34
+    4300070: front_radiator_low1.003Shape_MASH1_Instancer_35
+    4300072: front_radiator_low1.003Shape_MASH1_Instancer_36
+    4300074: front_radiator_low1.003Shape_MASH1_Instancer_37
+    4300076: front_radiator_low1.003Shape_MASH1_Instancer_38
+    4300078: front_radiator_low1.003Shape_MASH1_Instancer_39
+    4300080: front_radiator_low1.003Shape_MASH1_Instancer_40
+    4300082: front_radiator_low1.003Shape_MASH1_Instancer_41
+    4300084: front_radiator_low1.003Shape_MASH1_Instancer_42
+    4300086: front_radiator_low1.003Shape_MASH1_Instancer_43
+    4300088: front_radiator_low1.003Shape_MASH1_Instancer_44
+    4300090: front_radiator_low1.003Shape_MASH1_Instancer_45
+    4300092: front_radiator_low1.003Shape_MASH1_Instancer_46
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_and_truck.001
+    second: {fileID: 2100000, guid: 1d7eaac622441e7409d195f79d8fd8f5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_0
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_1
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_2
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_3
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_4
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_5
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_6
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_7
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_8
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_9
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_10
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_11
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_12
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_13
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_14
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_15
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_16
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_17
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_18
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_19
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_20
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_21
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_22
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_23
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_24
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_25
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_26
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_27
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_28
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_29
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_30
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_31
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_32
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_33
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_34
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_35
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_36
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_37
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_38
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_39
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_40
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_41
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_42
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_43
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_44
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_45
+        weight: 1
+      - path: front_radiator_low1.003Shape_MASH1_Instancer_46
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
