@@ -1,13 +1,14 @@
 ﻿using UnityEngine;
 
+// Скрипт просто вращает любой объект по выбранным осям
 public class Rotator : MonoBehaviour
 {
     [Range(-1.0f, 1.0f)]
-    public float xForceDirection = 0.0f;
+    private float xForceDirection = 0.0f;
     [Range(-1.0f, 1.0f)]
-    public float yForceDirection = 0.0f;
+    private float yForceDirection = 0.0f;
     [Range(-1.0f, 1.0f)]
-    public float zForceDirection = 0.0f;
+    private float zForceDirection = 0.0f;
 
     public float speedMultiplier = 1;
 
@@ -15,25 +16,18 @@ public class Rotator : MonoBehaviour
 
     private Space spacePivot = Space.Self;
 
-    private TankMovement tankMovement;
+    public float XForceDirection { get { return xForceDirection; } set { xForceDirection = value; }}
+    public float YForceDirection { get { return yForceDirection; } set { yForceDirection = value; }}
+    public float ZForceDirection { get { return zForceDirection; } set { zForceDirection = value; }}
 
     void Start()
     {
-        tankMovement = FindObjectOfType<TankMovement>();
         if (worldPivote) spacePivot = Space.World;
     }
 
     void Update()
     {
         this.transform.Rotate(xForceDirection * speedMultiplier, yForceDirection * speedMultiplier, zForceDirection * speedMultiplier, spacePivot);
-
-        DirectionRotation(tankMovement.Direction, 0, 0); // меняем направление вращения колес в зависимости от хода танка
     }
 
-    private void DirectionRotation(float x, float y, float z)
-    {
-        xForceDirection = x;
-        yForceDirection = y;
-        zForceDirection = z;
-    }
 }

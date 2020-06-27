@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 9110138898642785443}
   - component: {fileID: -6245447704505855638}
   m_Layer: 0
-  m_Name: BulletTankCannon
+  m_Name: BulletTankMachineGunLittle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 2380165923394555370}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.144, z: -0.53}
-  m_LocalScale: {x: 0.056775436, y: 0.056775436, z: 0.17924573}
+  m_LocalScale: {x: 0.056775436, y: 0.056775436, z: 0.067443}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a5bec81f1725f3e409405c358295f658, type: 2}
+  - {fileID: 2100000, guid: 3e154e3f85495bf4abc01978df6ab750, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

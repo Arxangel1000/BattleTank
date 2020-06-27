@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class TankShooting : MonoBehaviour
 {
-
     public GameObject theBullet;
     public Transform barrelEnd;
 
