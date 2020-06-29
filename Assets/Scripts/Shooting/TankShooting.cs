@@ -15,7 +15,7 @@ public class TankShooting : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKey(KeyCode.X))
+        if (Input.GetKey(KeyCode.X) || Input.GetKey(KeyCode.Mouse0))
         {
                 print("shoot");
             if (shootAble)
@@ -32,10 +32,11 @@ public class TankShooting : MonoBehaviour
         yield return new WaitForSeconds(waitBeforeNextShot);
         shootAble = true;
     }
+
     void Shoot()
     {
         var bullet = Instantiate(theBullet, barrelEnd.position, barrelEnd.rotation);
-        bullet.GetComponent<Rigidbody>().velocity = bullet.transform.forward * bulletSpeed;
+        bullet.GetComponent<Rigidbody>().velocity = bullet.transform.forward * bulletSpeed*Time.deltaTime;
 
         Destroy(bullet, despawnTime);
     }

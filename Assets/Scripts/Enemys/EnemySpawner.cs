@@ -4,36 +4,44 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
+    public static EnemySpawner instance;
     [SerializeField]
     private GameObject[] spawnPoints;
     [SerializeField]
     private GameObject[] enemyType;
-    private int enemiesCount;
+    [SerializeField]
+    private int enemiesBaseCount;
+    private int enemiesCurrentCount;
+
+    public int EnemiesCurrentCount { get { return enemiesCurrentCount; } set { enemiesCurrentCount = value; } }
+
+    void Awake()
+    {
+        instance = this;        
+    }
 
     void Start()
     {
         EnemiesBorn();
     }
 
-    void Update()
-    {
-        
-    }
-
-    private void EnemiesBorn()
+    public void EnemiesBorn()
     {
         StartCoroutine(EnemiesBornWait());
     }
 
     IEnumerator EnemiesBornWait()
     {
-        while (enemiesCount < 10)
+        while (EnemiesCurrentCount < enemiesBaseCount)
         {
             int pointNumber = Random.Range(0, spawnPoints.Length);
             int enemyNumber = Random.Range(0, enemyType.Length);
             yield return new WaitForSeconds(3f);
-            Instantiate(enemyType[enemyNumber], spawnPoints[pointNumber].transform.transform.position, Quaternion.identity);
-            enemiesCount++;
+            if (EnemiesCurrentCount < enemiesBaseCount)
+            {
+                Instantiate(enemyType[enemyNumber], spawnPoints[pointNumber].transform.transform.position, Quaternion.identity);
+                enemiesCurrentCount++;
+            }
         }
     }
 }

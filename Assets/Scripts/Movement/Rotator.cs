@@ -4,11 +4,11 @@
 public class Rotator : MonoBehaviour
 {
     [Range(-1.0f, 1.0f)]
-    private float xForceDirection = 0.0f;
+    public float xForceDirection = 0.0f;
     [Range(-1.0f, 1.0f)]
-    private float yForceDirection = 0.0f;
+    public float yForceDirection = 0.0f;
     [Range(-1.0f, 1.0f)]
-    private float zForceDirection = 0.0f;
+    public float zForceDirection = 0.0f;
 
     public float speedMultiplier = 1;
 
